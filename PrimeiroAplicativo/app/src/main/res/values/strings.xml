@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu aplicativo</string>
+    <string name="text">Olá mundo!</string>
+    <string name="botaoMensagem">MENSAGEM</string>
+    <string name="botaoContar">CONTAR</string>
+    <string name="implementarContador">contar</string>
+    <string name="implementarMensagem">mensagem</string>
+</resources>
